@@ -1,0 +1,51 @@
+body {
+    font-family:sans-serif;
+}
+
+header img {
+    height:40px;
+    background-color: lightblue;
+}
+
+nav {
+    color:gold;
+    background-color: lightblue;
+}
+
+header{
+    background-color:lightblue;
+}
+
+h1 {
+    text-align: center;
+    height: 60px;
+    color: gold;
+}
+
+footer p {
+    background-color: greenyellow;
+}
+
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.production {
+    border: 2px solid violet;
+    border-radius: 10px;
+    background-color: violet;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    height: 60px;
+    color: gold;
+}
